@@ -1,0 +1,60 @@
+{
+  "schedule": [
+    {
+      "period": "1",
+      "time": "8:00 AM - 9:00 AM",
+      "class_name": "Work Based Learning",
+      "teacher": "Mrs. Giordano",
+      "room": "D105",
+      "days": ["A", "B", "C","E","F"]
+    },
+    {
+      "period": "2",
+      "time": "9:00 AM - 10:00 AM",
+      "class_name": "BCC ENG121 The Writing Process",
+      "teacher": "Mrs. Lomovsky",
+      "room": "E208",
+      "days": ["A", "B", "D","E","F"]
+    },
+    {
+      "period": "3",
+      "time": "10:00 AM - 11:00 AM",
+      "class_name": "Honors NJIT IS219 Advanced Website Development W",
+      "teacher": "Mrs. Herbert",
+      "room": "B114",
+      "days": ["A", "C", "D","E","G"]
+    },
+    {
+      "period": "4",
+      "time": "11:00 AM - 12:00 PM",
+      "class_name": "Creative Foods",
+      "teacher": "Mrs. Arnold",
+      "room": "D209",
+      "days": ["B", "C", "D","F","G"]
+    },
+    {
+      "period": "6",
+      "time": "12:00 PM - 1:00 PM",
+      "class_name": "Work Based Learning 10cr",
+      "teacher": "Mrs. Giordano",
+      "room": "",
+      "days": ["A", "C", "D","F","G"]
+    },
+    {
+      "period": "5",
+      "time": "1:00 PM - 2:00 PM",
+      "class_name": "Work Based Learning 10cr",
+      "teacher": "Mrs. Giordano",
+      "room": "",
+      "days": ["A", "B", "D","E","G"]
+    },
+    {
+      "period": "7",
+      "time": "2:00 PM - 3:00 PM",
+      "class_name": "Physical Ed 12 Lab",
+      "teacher": "Mrs. Hastings",
+      "room": " B106",
+      "days": ["B", "C", "E","F","G"]
+    }
+  ]
+}
